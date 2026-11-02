@@ -1,6 +1,6 @@
 # Audi Car Sales Dashboard – Power BI
 
-##Project Overview
+##  Project Overview
 
 Developed an interactive Audi Car Sales Dashboard using Microsoft Power BI to analyze car prices, models, mileage, fuel types, transmission, and sales trends.
 
@@ -31,13 +31,3 @@ Developed an interactive Audi Car Sales Dashboard using Microsoft Power BI to an
 
 The project uses an Audi car dataset containing 10,668 records and 9 columns.
 
-## Project Files
-
-* `AUDI Dashboard.pbix` – Power BI dashboard.
-* `audi.csv` – Dataset.
-
-## Author
-
-**AHAMED BAARIS B**
-
-Aspiring Data Analyst | B.Tech Artificial Intelligence and Data Science
